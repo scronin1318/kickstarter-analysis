@@ -22,7 +22,7 @@ Another small issue I can into was how to set up the formula for the "greater th
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Based on the launch date analysis, it is clear that campaigns in the May to July months are the most successful , while failed campaigns hover around 40% funding year-round. While there isn't much corraltion between the campaign start month and failed campaigns, there definitely is a clear trend when looking at successful campaigns. While launch date may not have any effect on a campaign that's destined to fail, it can definitely help determine just how successful a successful campaign will be. 
+Based on the launch date analysis, it is clear that campaigns in the May to July months are the most successful , while failed campaigns hover around 40% funding year-round. While there isn't much correlation between the campaign start month and failed campaigns, there definitely is a clear trend when looking at successful campaigns. While launch date may not have any effect on a campaign that's destined to fail, it can definitely help determine just how successful a successful campaign will be. 
 
 - What can you conclude about the Outcomes based on Goals?
 As the fundraising goal increases, so does the percenatge of failed campaigns. The higher the goal, the more likely the campaign is to fail. 
